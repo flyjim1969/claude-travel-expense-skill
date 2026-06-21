@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!.claude/
+!.claude/commands/
+!.claude/commands/travel-expense.md
